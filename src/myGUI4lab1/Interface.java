@@ -9,6 +9,8 @@ import java.util.*;
 
 // change C4
 
+// modify B2
+
 public class Interface {
 
     // Éú³ÉÍ¼
