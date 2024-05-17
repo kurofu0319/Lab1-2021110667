@@ -11,6 +11,8 @@ import java.util.*;
 
 // modify B2
 
+// IDE modify
+
 public class Interface {
 
     // Éú³ÉÍ¼
