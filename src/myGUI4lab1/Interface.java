@@ -3,6 +3,8 @@ package myGUI4lab1;
 import java.io.*;
 import java.util.*;
 
+// created 2024/5/17
+
 public class Interface {
 
     // Éú³ÉÍ¼
