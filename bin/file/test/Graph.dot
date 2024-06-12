@@ -1,17 +1,13 @@
 digraph TextGraph {
 hello;
 world;
-this;
 is;
-a;
 test;
 another;
 example;
 hello -> world [label = 1];
-world -> this [label = 1];
-this -> is [label = 1];
-is -> a [label = 1];
-a -> test [label = 1];
+world -> is [label = 1];
+is -> test [label = 1];
 test -> hello [label = 1];
 test -> is [label = 1];
 test -> another [label = 1];

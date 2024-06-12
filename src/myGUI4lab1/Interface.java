@@ -71,7 +71,7 @@ public class Interface {
     }
 
     // ø… ”ªØÕº
-    public static void showTextGraph(TextGraph G, String path, String outputpath, boolean color) throws IOException {
+    public static void showTextGraph(TextGraph G, String path,  String outputpath, boolean color) throws IOException {
         long stime = System.currentTimeMillis();
 
         String gv_path = path + "/Graph.dot";
@@ -161,7 +161,7 @@ public class Interface {
                 long etime = System.currentTimeMillis();
                 System.out.printf("calculated in %d ms.\n", (etime - stime));
 
-            }    
+            }
         }
         return result;
     }

@@ -1,0 +1,39 @@
+
+>
+java:S1604#"(Make this anonymous inner class a lambda(©Ã¿ë
+C
+java:S1604/"(Make this anonymous inner class a lambda(¤Ù€Üüÿÿÿÿ
+C
+java:S1604G"(Make this anonymous inner class a lambda(‹É¥”ùÿÿÿÿ
+D
+java:S1604Õ"(Make this anonymous inner class a lambda(Ô¶µÿþÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ú§Z
+d
+java:S1192U"NDefine a constant instead of duplicating this literal "GraphData.txt" 6 times.(µ—È¸
+F
+java:S1659"+Declare "confirmButton" on a separate line.(›„Ð¶úÿÿÿÿ
+~
+java:S1450"cRemove the "optionsConfirmButton" field and declare it as a local variable in the relevant methods.(Ìý„·ýÿÿÿÿ
+v
+java:S1450"[Remove the "optionsFrame" field and declare it as a local variable in the relevant methods.(‰¬™¤ùÿÿÿÿ
+d
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öþÿÿÿÿ
+g
+java:S3252;"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(‚‚™šþÿÿÿÿ
+m
+java:S3776N"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÓÆ´Òýÿÿÿÿ
+<	java:S131R""Add a default case to this switch.(øãþ•ÿÿÿÿÿ
+Z
+java:S1117">Rename "stopButton" which hides the field declared at line 18.(Á®õ„ùÿÿÿÿ
+B
+java:S1602µ",Remove useless curly braces around statement(óÁÆ_
+z
+java:S3252Æ"^Use static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_AS_NEEDED".(ÑÍä¹ùÿÿÿÿ
+s
+java:S3252Ç"\Use static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_AS_NEEDED".(šƒùÎ
+c
+java:S3252Ì"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(×Ð‘÷
+I
+java:S1068".Remove this unused "stopButton" private field.(¬¨¿¨ûÿÿÿÿ
+â
+java:S6541N"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 103 to 64, Complexity from 16 to 14, Nesting Level from 5 to 2, Number of Variables from 15 to 6.(ÓÆ´Òýÿÿÿÿ

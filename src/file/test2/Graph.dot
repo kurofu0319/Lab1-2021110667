@@ -1,0 +1,6 @@
+digraph TextGraph {
+hello;
+world;
+hello -> hello [label = 1];
+hello -> world [label = 1];
+}
