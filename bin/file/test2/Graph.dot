@@ -1,6 +1,19 @@
 digraph TextGraph {
 hello;
 world;
-hello -> hello [label = 1];
+is;
+test;
+another;
+example;
 hello -> world [label = 1];
+world -> is [label = 1];
+is -> test [label = 1];
+test -> hello [label = 1];
+test -> is [label = 1];
+test -> another [label = 1];
+another -> test [label = 1];
+another -> example [label = 1];
+is -> world [label = 1];
+world -> another [label = 1];
+hello -> test [label = 1];
 }

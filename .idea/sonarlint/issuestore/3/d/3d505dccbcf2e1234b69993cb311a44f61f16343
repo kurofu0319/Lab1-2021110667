@@ -3,9 +3,9 @@
 ›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ú§Z8û©ÕŞ€2J$d8086e44-bcae-4af6-b338-5f6f830e6f5f
 
 java:S1192"HDefine a constant instead of duplicating this literal "another" 4 times.(ö¾Òıÿÿÿÿ8šªÕŞ€2J$0da43a17-7f28-4137-a40c-17412531b6fd
-
-java:S1192"FDefine a constant instead of duplicating this literal "hello" 4 times.(ö¾Òıÿÿÿÿ8“¡‡ß€2J$7258d5b8-7116-4e84-9b91-2492821a8acb
 
 java:S1192"HDefine a constant instead of duplicating this literal "example" 3 times.(ö¾Òıÿÿÿÿ8šªÕŞ€2J$01e840df-ca9b-4dd7-bb0e-1da3e3af00b1
+
+java:S1192"FDefine a constant instead of duplicating this literal "hello" 4 times.(ö¾Òıÿÿÿÿ8“¡‡ß€2J$7258d5b8-7116-4e84-9b91-2492821a8acb
 s
 java:S5960"+Remove this assertion from production code.(ãú©ùÿÿÿÿ8šªÕŞ€2J$9ba9b3de-ed36-456b-b2d9-a5f02d3e9716

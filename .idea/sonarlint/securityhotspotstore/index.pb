@@ -10,3 +10,5 @@ M
 src/myGUI4lab1/TextGraph.java,0\1\01b939e3e9fc7a39881a16e7f39e86487d70da47
 X
 (src/myGUI4lab1/queryBridgeWordsTest.java,3\d\3d505dccbcf2e1234b69993cb311a44f61f16343
+Q
+!src/myGUI4lab1/TextGraphTest.java,d\b\dbf50660638169afefa62b4d9d4bed42fb494ca8

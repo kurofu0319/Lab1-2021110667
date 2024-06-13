@@ -1,97 +1,97 @@
 
-r	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ŞÄÿøÿÿÿÿ8æŞØ×€2
-m	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª§”µ8æŞØ×€2
-m	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£óˆ„8æŞØ×€2
-s	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şæåšşÿÿÿÿ8æŞØ×€2
-n	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿş÷›8æŞØ×€2
-u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ú§Z8æŞØ×€2
-“
-java:S1319Ê"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ùâ§Óıÿÿÿÿ8æŞØ×€2
-‹
-java:S1319Ö"hThe type of "wordList" should be an interface such as "List" rather than the implementation "ArrayList".(ñÇïãşÿÿÿÿ8æŞØ×€2
-u
-java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(‡Úõ8æŞØ×€2
-{
-java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å˜ªöşÿÿÿÿ8æŞØ×€2
-i
-java:S2259X"GA "NullPointerException" could be thrown; "neighbour" is nullable here.(Œü’Òøÿÿÿÿ8õŞØ×€2
-9
-java:S1643Ù"Use a StringBuilder instead.(É¹îv8…ßØ×€2
-:
-java:S1643İ"Use a StringBuilder instead.(íÈÙË8…ßØ×€2
-:
-java:S1643á"Use a StringBuilder instead.(ÕŞ½£8…ßØ×€2
-9
-java:S1643Ì"Use a StringBuilder instead.(·•”-8…ßØ×€2
-?
-java:S1643á"Use a StringBuilder instead.(ø®§³úÿÿÿÿ8…ßØ×€2
-?
-java:S1643“"Use a StringBuilder instead.(³Ø ïıÿÿÿÿ8…ßØ×€2
-?
-java:S1643Ì"Use a StringBuilder instead.(³Ø ïıÿÿÿÿ8…ßØ×€2
-d
-java:S1192‰"FDefine a constant instead of duplicating this literal "];\r
-" 3 times.(ĞÃş8…ßØ×€2
-n
-java:S1192ˆ"KDefine a constant instead of duplicating this literal " [label = " 3 times.(¶¶„óúÿÿÿÿ8…ßØ×€2
-e
-java:S2095^"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(±˜ã8…ßØ×€2
-e
-java:S2095³"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(â½Íb8…ßØ×€2
-e
-java:S2095ñ"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(â½Íb8…ßØ×€2
-v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿ©µ8…ßØ×€2
-o	java:S116"SRename this field "Node_set" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ûº8…ßØ×€2
-u	java:S116"TRename this field "Node_info" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»£±ˆûÿÿÿÿ8…ßØ×€2
-d
-java:S1126h"BReplace this if-then-else statement by a single method invocation.(àÌÿóúÿÿÿÿ8¥ßØ×€2
-I
-java:S1125h"'Remove the unnecessary boolean literal.(àÌÿóúÿÿÿÿ8´ßØ×€2
-G	java:S106t"+Replace this use of System.out by a logger.(í ‘‘8ÄßØ×€2
-j	java:S100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£óˆ„8ÓßØ×€2
-o
-java:S3776y"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(£óˆ„8“àØ×€2
-9
-java:S3626"Remove this redundant jump.(ûÁİ…8“àØ×€2
-9
-java:S3626¨"Remove this redundant jump.(ûÁİ…8“àØ×€2
-J
-java:S1125‚"'Remove the unnecessary boolean literal.(àÌÿóúÿÿÿÿ8¢àØ×€2
-u
-java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¿¬Ëıÿÿÿÿ8ÜàØ×€2
-I
-java:S1168µ"+Return an empty collection instead of null.(¥¹ï8ìàØ×€2
-\
-java:S1155¹">Use isEmpty() to check whether the collection is empty or not.(Ñäïü8ûàØ×€2
-a
-java:S1155½">Use isEmpty() to check whether the collection is empty or not.(şõ‡õûÿÿÿÿ8‹áØ×€2
-p
-java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(Õò8ÆßûÛ€2
-c
-java:S1659Ÿ"@Declare "tmp" and all following declarations on a separate line.(°×Îßúÿÿÿÿ8ºáØ×€2
-]
-java:S6213Ÿ":Rename this variable to not match a restricted identifier.(°×Îßúÿÿÿÿ8ºáØ×€2
-H	java:S106Ò"+Replace this use of System.out by a logger.(è®Èù8ºáØ×€2
-H	java:S106Ó"+Replace this use of System.out by a logger.(¬®´Ö8ºáØ×€2
-u
-java:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(‚À¸ãıÿÿÿÿ8ºáØ×€2
-X
-java:S6213ò":Rename this variable to not match a restricted identifier.(É§Å˜8ºáØ×€2
-;
-java:S2119"Save and re-use this "Random".(¼İÅf8ºáØ×€2
-X
-java:S6213µ":Rename this variable to not match a restricted identifier.(É§Å˜8ºáØ×€2
+˜	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ŞÄÿøÿÿÿÿ8æŞØ×€2J$b5441e36-8fe5-4750-8589-92cc9de2d678
+“	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª§”µ8æŞØ×€2J$6c025f49-0ae3-4a43-8b82-2f4a13676cb4
+“	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£óˆ„8æŞØ×€2J$deb6c273-0001-4097-af58-bd3afc812661
+™	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şæåšşÿÿÿÿ8æŞØ×€2J$291c0133-e364-4661-8b5d-988c88f92eb9
+”	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿş÷›8æŞØ×€2J$c8c1ee5c-3c25-4c96-9f1a-6428c744ab4c
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ú§Z8æŞØ×€2J$a79af98b-9667-4b5a-a650-c791eae8a9ef
+¹
+java:S1319Ê"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ùâ§Óıÿÿÿÿ8æŞØ×€2J$89a8d818-fcbe-47b4-b78e-df74c888a635
+±
+java:S1319Ö"hThe type of "wordList" should be an interface such as "List" rather than the implementation "ArrayList".(ñÇïãşÿÿÿÿ8æŞØ×€2J$84006226-bec6-44a9-9990-a70ab786979d
+›
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(‡Úõ8æŞØ×€2J$5a9922b2-4998-495e-b106-711230bf3ecb
+¡
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å˜ªöşÿÿÿÿ8æŞØ×€2J$5391f8c5-0df8-451f-8d33-371534115caa
+
+java:S2259X"GA "NullPointerException" could be thrown; "neighbour" is nullable here.(Œü’Òøÿÿÿÿ8õŞØ×€2J$541be86a-35f8-4b5e-b6f6-9f0d094eb7a7
 _
-java:S3457Ë"AFormat specifiers should be used instead of string concatenation.(’ÚÓ£8ºáØ×€2
-H	java:S106Ë"+Replace this use of System.out by a logger.(’ÚÓ£8ºáØ×€2
-;
-java:S2119Ï"Save and re-use this "Random".(¼İÅf8ºáØ×€2
-|
-java:S2142ß"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ºáØ×€2
-M	java:S106ä"+Replace this use of System.out by a logger.(©ééîøÿÿÿÿ8ºáØ×€2
+java:S1643Ù"Use a StringBuilder instead.(É¹îv8…ßØ×€2J$df9c2c2a-d132-4ec5-a478-3aa6b5502a74
 `
-java:S1128">Remove this unused import 'java.awt.desktop.SystemSleepEvent'.(µ‹ßŸüÿÿÿÿ8ºáØ×€2
-T
-java:S1128"2Remove this unused import 'javax.swing.JTextArea'.(ô„ûìıÿÿÿÿ8ºáØ×€2
-ä
-java:S6541é"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 87 to 64, Complexity from 26 to 14, Nesting Level from 4 to 2, Number of Variables from 28 to 6.(Õò8ºáØ×€2
+java:S1643İ"Use a StringBuilder instead.(íÈÙË8…ßØ×€2J$60c158d9-9b83-4752-920e-37fbf111d473
+`
+java:S1643á"Use a StringBuilder instead.(ÕŞ½£8…ßØ×€2J$2a60d384-5aa8-4b5a-809b-484d37ac8bcf
+_
+java:S1643Ì"Use a StringBuilder instead.(·•”-8…ßØ×€2J$7d0de7b0-a5bc-4671-b7fa-a34b418fa74f
+e
+java:S1643á"Use a StringBuilder instead.(ø®§³úÿÿÿÿ8…ßØ×€2J$5f541147-dc27-40b3-8260-6502dfb0b016
+e
+java:S1643“"Use a StringBuilder instead.(³Ø ïıÿÿÿÿ8…ßØ×€2J$a4b2e78a-1442-4acf-b9e9-a1dac1067a3d
+e
+java:S1643Ì"Use a StringBuilder instead.(³Ø ïıÿÿÿÿ8…ßØ×€2J$69d62e92-130a-4b6e-8cdc-3751678a2217
+”
+java:S1192ˆ"KDefine a constant instead of duplicating this literal " [label = " 3 times.(¶¶„óúÿÿÿÿ8…ßØ×€2J$e1dd6ac9-4b1f-40b4-8bf9-1764a1162b58
+Š
+java:S1192‰"FDefine a constant instead of duplicating this literal "];\r
+" 3 times.(ĞÃş8…ßØ×€2J$2dfd785c-49c6-4183-a7a5-31c5f79488f3
+‹
+java:S2095³"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(â½Íb8…ßØ×€2J$21645cf6-7dc7-4087-a1dd-2bf6bab34fe3
+‹
+java:S2095ñ"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(â½Íb8…ßØ×€2J$c1ccb133-4295-42d5-9aca-a142e1ae13f4
+‹
+java:S2095^"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(±˜ã8…ßØ×€2J$07f1257d-bd93-465f-8249-77f0ad551836
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿ©µ8…ßØ×€2J$ae38736a-fb3d-44d4-b478-559c3cfb0015
+•	java:S116"SRename this field "Node_set" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ûº8…ßØ×€2J$402102fa-2aff-4e4d-a741-8eb8bede6e92
+›	java:S116"TRename this field "Node_info" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»£±ˆûÿÿÿÿ8…ßØ×€2J$c535d663-caff-4433-bcc9-3660613f6a1c
+Š
+java:S1126h"BReplace this if-then-else statement by a single method invocation.(àÌÿóúÿÿÿÿ8¥ßØ×€2J$22d35106-0e95-4498-bf36-7d972622b409
+o
+java:S1125h"'Remove the unnecessary boolean literal.(àÌÿóúÿÿÿÿ8´ßØ×€2J$81f9b357-6068-43ec-8219-94e389e336ea
+m	java:S106t"+Replace this use of System.out by a logger.(í ‘‘8ÄßØ×€2J$443e1600-70d1-466d-a634-5f1675c9a9db
+	java:S100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£óˆ„8ÓßØ×€2J$a00d8afb-3806-4947-bd48-ea8d5d0572e5
+•
+java:S3776y"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(£óˆ„8“àØ×€2J$afd3036a-9794-4c2c-930b-b06b50bfeed2
+_
+java:S3626"Remove this redundant jump.(ûÁİ…8“àØ×€2J$628ed171-a181-42b1-9f83-1f6df8dd5ca2
+_
+java:S3626¨"Remove this redundant jump.(ûÁİ…8“àØ×€2J$f90acd0b-5aa6-4d84-a715-a59585e40881
+p
+java:S1125‚"'Remove the unnecessary boolean literal.(àÌÿóúÿÿÿÿ8¢àØ×€2J$0fd7c461-cbba-4081-a6e5-4ee303818939
+›
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¿¬Ëıÿÿÿÿ8ÜàØ×€2J$46f15a23-4612-4892-8c1c-74dae179a6d0
+o
+java:S1168µ"+Return an empty collection instead of null.(¥¹ï8ìàØ×€2J$a30f6e31-6bb6-45c3-9007-6f3f43048dc7
+‚
+java:S1155¹">Use isEmpty() to check whether the collection is empty or not.(Ñäïü8ûàØ×€2J$15a1068b-7112-4eb5-9ddb-34d1e7c9d448
+‡
+java:S1155½">Use isEmpty() to check whether the collection is empty or not.(şõ‡õûÿÿÿÿ8‹áØ×€2J$b3cf2379-be84-443e-9277-ccd6b7ef29eb
+–
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(Õò8ÆßûÛ€2J$61a990cf-264c-477c-aab7-ab20a2af7b3f
+‰
+java:S1659Ÿ"@Declare "tmp" and all following declarations on a separate line.(°×Îßúÿÿÿÿ8ºáØ×€2J$79ca7a9a-f024-40ac-b117-a33b49ceae7d
+ƒ
+java:S6213Ÿ":Rename this variable to not match a restricted identifier.(°×Îßúÿÿÿÿ8ºáØ×€2J$7780e87a-d8a6-4ffa-a0b7-24f6363ae52c
+n	java:S106Ò"+Replace this use of System.out by a logger.(è®Èù8ºáØ×€2J$8530e532-c272-42c2-870e-b46b0047639d
+n	java:S106Ó"+Replace this use of System.out by a logger.(¬®´Ö8ºáØ×€2J$10191983-8d8e-4cbe-a19b-3491dd1ce4bb
+›
+java:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(‚À¸ãıÿÿÿÿ8ºáØ×€2J$d38d0a4d-bb14-4820-89aa-1ac91b512d22
+~
+java:S6213ò":Rename this variable to not match a restricted identifier.(É§Å˜8ºáØ×€2J$1d62c6ea-b74b-44e7-af7c-f71778e3edf4
+a
+java:S2119"Save and re-use this "Random".(¼İÅf8ºáØ×€2J$aa72ef3b-ef6d-4dea-b2f4-28323759fb70
+~
+java:S6213µ":Rename this variable to not match a restricted identifier.(É§Å˜8ºáØ×€2J$df10d949-bc89-418e-ab6b-4aa2b0ded7cd
+…
+java:S3457Ë"AFormat specifiers should be used instead of string concatenation.(’ÚÓ£8ºáØ×€2J$49c397e5-7f96-4c55-a908-d323a8ff11e1
+n	java:S106Ë"+Replace this use of System.out by a logger.(’ÚÓ£8ºáØ×€2J$f87f6e5c-bec8-49d9-a0ae-95baf3f2ce7e
+a
+java:S2119Ï"Save and re-use this "Random".(¼İÅf8ºáØ×€2J$9bc81b5e-9f06-4079-ab91-39bbc6f8be2a
+¢
+java:S2142ß"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ºáØ×€2J$16dfcb5d-1ac2-4361-a6d5-cf9df2a93062
+s	java:S106ä"+Replace this use of System.out by a logger.(©ééîøÿÿÿÿ8ºáØ×€2J$3dc9f470-ad7b-42cd-99f7-7e3839e06826
+†
+java:S1128">Remove this unused import 'java.awt.desktop.SystemSleepEvent'.(µ‹ßŸüÿÿÿÿ8ºáØ×€2J$418e5079-9f3f-44a8-8eeb-bdf902a22819
+z
+java:S1128"2Remove this unused import 'javax.swing.JTextArea'.(ô„ûìıÿÿÿÿ8ºáØ×€2J$85b64aca-b2e2-447a-9962-459c55df9e67
+Š
+java:S6541é"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 87 to 64, Complexity from 26 to 14, Nesting Level from 4 to 2, Number of Variables from 28 to 6.(Õò8ºáØ×€2J$43ecda93-0cd9-4576-bff9-92477abf22ef
